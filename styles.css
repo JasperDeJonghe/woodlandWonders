@@ -1,0 +1,26 @@
+/* styles.css */
+
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+label {
+  margin-bottom: 5px;
+  display: block;
+}
+
+input,
+select,
+button {
+  margin-bottom: 10px;
+}
+
+#selectBoxes {
+  margin-top: 10px;
+}
+
+#output {
+  margin-top: 20px;
+  font-weight: bold;
+}
